@@ -1,0 +1,8 @@
+1. Create API for Employee
+    Get
+    Add
+    Update
+    Delete
+2. API code should use Manager Classes for CRUD Operations.
+3. Manager class should use Repository classes to communicate with database ( As done in Tutotrial 4)
+4. Please learn tool "PostMan" and use it for testing APIs.
