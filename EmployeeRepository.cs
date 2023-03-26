@@ -6,7 +6,7 @@ namespace Tutorial_5
 {
     public class EmployeeRepository : IEmployeeRepository
     {
-        string connectionString = @"Data Source=.\SQLEXPRESS; Initial Catalog=ADb; User ID=sa; Password=admin@123";
+        string connectionString = @"Data Source=.\SQLEXPRESS; Initial Catalog=ADb; User ID=ma; Password=admin@123";
         public IList<Employee> GetEmployees()
         {
             IList<Employee> empList = new List<Employee>();
